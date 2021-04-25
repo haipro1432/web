@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background:url("../imagess/119202809_171908277927238_7690117588229452327_o.jpg");
+  background-size: cover;
+   color:#D8F33F;
+}
+div table{
+	align: center;
+}
+
+.account{
+	
+	color: yellow;
+	text-align: center;
+	font-size: 20px;
+}

@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+.sanpham{
+	width: 230px;
+	height: 250px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 75px;
+	background-color: #FFF;
+}
+.sanpham p{
+	color: #00F;
+	text-align: center;
+	margin: 0px;
+	font-size: 20px;
+}
+
+
+.hinhanh{
+	width: 220px;
+	height: 200px;
+	float: left;
+	margin: 50px;
+}
+.sanpham{
+	width: 230px;
+	height: 250px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 75px;
+	background-color: #FFF;
+}
+.sanpham p{
+	color: #00F;
+	text-align: center;
+	margin: 0px;
+	font-size: 20px;
+}
+div#nen{
+	background-color: #111111;
+	height: 500px;
+}
+.sanpham a{
+	text-decoration: none;
+	color: #f1f1f1;
+	text-align: center;
+}
+.giacu{
+	text-align: center;
+	color: #f1f1f1;
+}
+.giaban{
+	text-align: center;
+	color: red;
+}
+.tensp{
+	text-align: center;
+}
+.sanpham a:hover{
+	color: red;
+}
+
+
